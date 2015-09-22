@@ -1,5 +1,5 @@
 # Loading-with-css
-Loading only css.
+You only have to include the css file.
 
 ## Installation
 Only add style CSS.
