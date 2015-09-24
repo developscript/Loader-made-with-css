@@ -1,4 +1,4 @@
-# Loading-with-css
+# Loader-made-with-css
 You only have to include the css file.
 
 ## Installation
